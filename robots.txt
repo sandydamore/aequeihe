@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://auseeghi.4klift.com/sitemap.xml
